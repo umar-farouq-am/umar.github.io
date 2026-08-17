@@ -1,0 +1,9 @@
+{
+  "name":"Qur'an Companion",
+  "short_name":"Quran Companion",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#07130f",
+  "theme_color":"#07130f",
+  "description":"Read and listen to the Holy Qur'an."
+}
